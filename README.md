@@ -16,10 +16,10 @@ Or click fork & run on Vercel
 
 | Roadmap              | RFC 📝                                                    | Status | Description                                                                                                      |
 |:---------------------|-----------------------------------------------------------|:------:|:-----------------------------------------------------------------------------------------------------------------|
-| Editable Purposes 🎭 | https://github.com/miroldev/ChatGPT-NextJs/issues/35 |   💬   | In-app customization of 'Purposes', as many forks are created for that reason.                                   |
-| Templates sharing 🌐 | https://github.com/miroldev/ChatGPT-NextJs/issues/35 |   💬   | Community repository of Purposes/Systems - Vote with 👍 and usage. Where to store? Bring your own key? Moderate? |
-| Reasoning Systems 🧩 | https://github.com/miroldev/ChatGPT-NextJs/issues/36 |   🤔   | ReAct, DEPS, Reflexion - shall we?                                                                               |
-| Your epic idea       |                                                           |   💡   | [Create RFC](https://github.com/miroldev/ChatGPT-NextJs/issues/new?labels=RFC&body=Describe+the+idea) ❗     |
+| Editable Purposes 🎭 | https://github.com/daya110/ChatGPT-NextJs/issues/35 |   💬   | In-app customization of 'Purposes', as many forks are created for that reason.                                   |
+| Templates sharing 🌐 | https://github.com/daya110/ChatGPT-NextJs/issues/35 |   💬   | Community repository of Purposes/Systems - Vote with 👍 and usage. Where to store? Bring your own key? Moderate? |
+| Reasoning Systems 🧩 | https://github.com/daya110/ChatGPT-NextJs/issues/36 |   🤔   | ReAct, DEPS, Reflexion - shall we?                                                                               |
+| Your epic idea       |                                                           |   💡   | [Create RFC](https://github.com/daya110/ChatGPT-NextJs/issues/new?labels=RFC&body=Describe+the+idea) ❗     |
 
 ## Features ✨
 
@@ -85,7 +85,7 @@ Tech Stack 🛠️
 Simply clone the repository, install the dependencies, and run the development server:
 
 ```
-git clone https://github.com/miroldev/ChatGPT-NextJs.git
+git clone https://github.com/daya110/ChatGPT-NextJs.git
 cd nextjs-chatgpt-app
 npm install
 npm run dev
@@ -103,11 +103,11 @@ This project is licensed under the MIT License.
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/miroldev/ChatGPT-NextJs)](https://github.com/miroldev/ChatGPT-NextJs/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/miroldev/ChatGPT-NextJs)](https://github.com/miroldev/ChatGPT-NextJs/network)
-[![GitHub issues](https://img.shields.io/github/issues/miroldev/ChatGPT-NextJs)](https://github.com/miroldev/ChatGPT-NextJs/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/miroldev/ChatGPT-NextJs)](https://github.com/miroldev/ChatGPT-NextJs/pulls)
-[![GitHub license](https://img.shields.io/github/license/miroldev/ChatGPT-NextJs)](https://github.com/miroldev/ChatGPT-NextJs/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/miroldev?style=social)](https://twitter.com/miroldev)
+[![GitHub stars](https://img.shields.io/github/stars/daya110/ChatGPT-NextJs)](https://github.com/daya110/ChatGPT-NextJs/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/daya110/ChatGPT-NextJs)](https://github.com/daya110/ChatGPT-NextJs/network)
+[![GitHub issues](https://img.shields.io/github/issues/daya110/ChatGPT-NextJs)](https://github.com/daya110/ChatGPT-NextJs/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/daya110/ChatGPT-NextJs)](https://github.com/daya110/ChatGPT-NextJs/pulls)
+[![GitHub license](https://img.shields.io/github/license/daya110/ChatGPT-NextJs)](https://github.com/daya110/ChatGPT-NextJs/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/daya110?style=social)](https://twitter.com/daya110)
 
 Made with 💙
